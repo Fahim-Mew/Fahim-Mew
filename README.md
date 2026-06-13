@@ -1,16 +1,30 @@
-## Hi there 👋
+# Fahim ibne Ashraf
 
-<!--
-**Fahim-Mew/Fahim-Mew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Open to ML / AI Engineering roles
 
-Here are some ideas to get you started:
+Developer and designer from Udaipur, India.  
+Started with graphic design, motion graphics, 3D — now building AI systems from scratch.  
+Self-taught, no CS degree, currently pursuing BCA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Building
+
+**Huraira**  
+A personal AI built from scratch — custom transformer model, PyTorch, CUDA, ONNX optimized. Voice I/O, memory persistence, live web search. Running locally on my machine.
+
+**First Care Pharma**  
+Hyperlocal healthcare app for Udaipur. Medicine delivery, ambulance, home nursing, doctor consultancy. React Native + Node.js + PostgreSQL. GPS-locked transactions, OTP auth, Razorpay payments.
+
+---
+
+### Skills
+
+`Python` `PyTorch` `ONNX` `React Native` `Node.js` `PostgreSQL` `C`  
+`Illustrator` `After Effects` `Blender` `Figma` `Premiere Pro`
+
+---
+
+### Contact
+
+fahimmewashrafi2@gmail.com
